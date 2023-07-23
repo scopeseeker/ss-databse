@@ -1,5 +1,203 @@
 [
     {
-        "company": "Company will be here"
+      "name": "Amazon",
+      "description": "Amazon is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "industry": "Technology",
+      "founded": "1994-07-05",
+      "ownership": "Public",
+      "headquarters": "Seattle, Washington, U.S.",
+      "officeLocations": ["Seattle, WA", "New York, NY", "San Francisco, CA", "Bangalore, India"],
+      "ceo": "Andy Jassy",
+      "founders": ["Jeff Bezos"],
+      "typeOfCompany": "Public",
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/amazon/",
+        "twitter": "https://twitter.com/amazon",
+        "facebook": "https://www.facebook.com/Amazon",
+        "youtube": "https://www.youtube.com/user/amazon",
+        "instagram": "https://www.instagram.com/amazon/"
+      },
+      "website": "https://www.amazon.com/",
+      "subsidiaries": ["Amazon Web Services (AWS)", "Whole Foods Market"],
+      "jobs": [],
+      "employeeBenefits": ["Health insurance", "Retirement plans", "Paid time off"],
+      "leadership": [
+        {
+          "name": "Andy Jassy",
+          "title": "CEO"
+        },
+        {
+          "name": "Jeff Wilke",
+          "title": "Former CEO, Worldwide Consumer"
+        }
+      ],
+      "rating": 4.7,
+      "companySize": "Large",
+      "companyLogo": "https://example.com/amazon_logo.png",
+      "companyVideo": "https://example.com/amazon_video.mp4",
+      "companyTags": ["E-commerce", "Cloud Computing", "Artificial Intelligence", "Digital Streaming"],
+      "employees": [],
+      "interviewExperience": []
+    },
+    {
+      "name": "Flipkart",
+      "description": "Flipkart is an Indian e-commerce company headquartered in Bangalore, Karnataka, India.",
+      "industry": "Technology",
+      "founded": "2007-10-05",
+      "ownership": "Subsidiary of Walmart Inc.",
+      "headquarters": "Bangalore, Karnataka, India",
+      "officeLocations": ["Bangalore, India", "Delhi, India", "Mumbai, India"],
+      "ceo": "Kalyan Krishnamurthy",
+      "founders": ["Sachin Bansal", "Binny Bansal"],
+      "typeOfCompany": "E-commerce",
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/flipkart/",
+        "twitter": "https://twitter.com/Flipkart",
+        "facebook": "https://www.facebook.com/flipkart",
+        "youtube": "https://www.youtube.com/user/flipkart",
+        "instagram": "https://www.instagram.com/flipkart/"
+      },
+      "website": "https://www.flipkart.com/",
+      "subsidiaries": [],
+      "jobs": [],
+      "employeeBenefits": ["Health insurance", "Flexible working hours", "Paid leaves"],
+      "leadership": [
+        {
+          "name": "Kalyan Krishnamurthy",
+          "title": "CEO"
+        },
+        {
+          "name": "Binny Bansal",
+          "title": "Co-founder"
+        }
+      ],
+      "rating": 4.5,
+      "companySize": "Large",
+      "companyLogo": "https://example.com/flipkart_logo.png",
+      "companyVideo": "https://example.com/flipkart_video.mp4",
+      "companyTags": ["E-commerce", "Online Shopping", "Technology", "Retail"],
+      "employees": [],
+      "interviewExperience": []
+    },
+    {
+      "name": "TSC",
+      "description": "TSC is a technology consulting company offering services in software development and IT solutions.",
+      "industry": "Technology",
+      "founded": "2000-05-15",
+      "ownership": "Private",
+      "headquarters": "Austin, Texas, U.S.",
+      "officeLocations": ["Austin, TX", "San Francisco, CA", "New York, NY"],
+      "ceo": "John Smith",
+      "founders": ["Jane Doe", "Michael Johnson"],
+      "typeOfCompany": "IT Consulting",
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/tsc/",
+        "twitter": "https://twitter.com/tsc",
+        "facebook": "https://www.facebook.com/tsc",
+        "youtube": "https://www.youtube.com/user/tsc",
+        "instagram": "https://www.instagram.com/tsc/"
+      },
+      "website": "https://www.tsc.com/",
+      "subsidiaries": [],
+      "jobs": [],
+      "employeeBenefits": ["Health insurance", "Paid vacations", "Training and development programs"],
+      "leadership": [
+        {
+          "name": "John Smith",
+          "title": "CEO"
+        },
+        {
+          "name": "Jane Doe",
+          "title": "CTO"
+        }
+      ],
+      "rating": 4.2,
+      "companySize": "Medium",
+      "companyLogo": "https://example.com/tsc_logo.png",
+      "companyVideo": "https://example.com/tsc_video.mp4",
+      "companyTags": ["Software Development", "IT Solutions", "Consulting"],
+      "employees": [],
+      "interviewExperience": []
+    },
+    {
+      "name": "Microsoft",
+      "description": "Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, and personal computers.",
+      "industry": "Technology",
+      "founded": "1975-04-04",
+      "ownership": "Public",
+      "headquarters": "Redmond, Washington, U.S.",
+      "officeLocations": ["Redmond, WA", "New York, NY", "San Francisco, CA", "London, UK"],
+      "ceo": "Satya Nadella",
+      "founders": ["Bill Gates", "Paul Allen"],
+      "typeOfCompany": "Technology",
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/microsoft/",
+        "twitter": "https://twitter.com/Microsoft",
+        "facebook": "https://www.facebook.com/Microsoft",
+        "youtube": "https://www.youtube.com/user/Microsoft",
+        "instagram": "https://www.instagram.com/microsoft/"
+      },
+      "website": "https://www.microsoft.com/",
+      "subsidiaries": ["LinkedIn", "GitHub", "Mojang Studios"],
+      "jobs": [],
+      "employeeBenefits": ["Health insurance", "Stock options", "Professional development programs"],
+      "leadership": [
+        {
+          "name": "Satya Nadella",
+          "title": "CEO"
+        },
+        {
+          "name": "Amy Hood",
+          "title": "CFO"
+        }
+      ],
+      "rating": 4.6,
+      "companySize": "Large",
+      "companyLogo": "https://example.com/microsoft_logo.png",
+      "companyVideo": "https://example.com/microsoft_video.mp4",
+      "companyTags": ["Technology", "Software Development", "Consumer Electronics"],
+      "employees": [],
+      "interviewExperience": []
+    },
+    {
+      "name": "Google",
+      "description": "Google is an American multinational technology company that specializes in internet-related services and products.",
+      "industry": "Technology",
+      "founded": "1998-09-04",
+      "ownership": "Public",
+      "headquarters": "Mountain View, California, U.S.",
+      "officeLocations": ["Mountain View, CA", "New York, NY", "London, UK", "Bangalore, India"],
+      "ceo": "Sundar Pichai",
+      "founders": ["Larry Page", "Sergey Brin"],
+      "typeOfCompany": "Technology",
+      "socialMedia": {
+        "linkedin": "https://www.linkedin.com/company/google/",
+        "twitter": "https://twitter.com/Google",
+        "facebook": "https://www.facebook.com/Google",
+        "youtube": "https://www.youtube.com/user/Google",
+        "instagram": "https://www.instagram.com/google/"
+      },
+      "website": "https://www.google.com/",
+      "subsidiaries": ["YouTube", "Waymo", "DeepMind Technologies"],
+      "jobs": [],
+      "employeeBenefits": ["Health insurance", "Stock options", "Gym membership"],
+      "leadership": [
+        {
+          "name": "Sundar Pichai",
+          "title": "CEO"
+        },
+        {
+          "name": "Ruth Porat",
+          "title": "CFO"
+        }
+      ],
+      "rating": 4.8,
+      "companySize": "Large",
+      "companyLogo": "https://example.com/google_logo.png",
+      "companyVideo": "https://example.com/google_video.mp4",
+      "companyTags": ["Technology", "Search Engine", "Internet Services", "Artificial Intelligence"],
+      "employees": [],
+      "interviewExperience": []
     }
-]
+  ]
+  
